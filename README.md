@@ -18,5 +18,7 @@ However, in the modern market LIBOR swaps are quoted using OIS discounting. This
 
 The central tenet of curve construction under OIS discounting is to bootstrap multiple curves simultaneously. One needs two term structure inputs for curve construction under OIS discounting: a term structure of OIS instruments and a term structure of swaps.
 
-You can find more details at
-https://finpricing.com/lib/FxVolIntroduction.html
+References:
+
+https://finpricing.com/lib/EqAutocallable.html
+
